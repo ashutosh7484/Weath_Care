@@ -12,7 +12,7 @@
 ## 📸 Screenshots  
 
 ### 🏠 Homepage  
-![Homepage]([https://github.com/ashutosh7484/Weath_Care/blob/main/homepage.png](https://github.com/ashutosh7484/Weath_Care/blob/2723c907a4cc49485cd2e05ae29c9a69295bbd30/Screenshot%202025-03-07%20155706.png))  
+![Homepage](https://github.com/ashutosh7484/Weath_Care/blob/2723c907a4cc49485cd2e05ae29c9a69295bbd30/Screenshot%202025-03-07%20155706.png)
 
 ### 🌦️ Weather Forecast  
 ![Forecast](https://github.com/your-username/Weath_Care/blob/main/forecast.png) 
