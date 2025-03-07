@@ -12,13 +12,13 @@
 ## 📸 Screenshots  
 
 ### 🏠 Homepage  
-![Homepage](https://github.com/ashutosh7484/WeathCare/blob/main/homepage.png)  
+![Homepage](https://github.com/ashutosh7484/Weath_Care/blob/main/homepage.png)  
 
 ### 🌦️ Weather Forecast  
-![Forecast](https://github.com/your-username/WeathCare/blob/main/forecast.png) 
+![Forecast](https://github.com/your-username/Weath_Care/blob/main/forecast.png) 
 
 ### 🤖 AI Chatbot  
-![Chatbot](https://github.com/your-username/WeathCare/blob/main/chatbot.png)  
+![Chatbot](https://github.com/your-username/Weath_Care/blob/main/chatbot.png)  
 
 ## 🚀 Technologies Used  
 - **Frontend:** TypeScript, Tailwind CSS  
